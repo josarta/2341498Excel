@@ -1,0 +1,30 @@
+.fcl-rojo{
+    background-color: red;
+}
+
+.fcl-azul{
+    background-color: blue;
+}
+.fcl-aqua{
+    background-color: aqua;
+}
+
+.fcl-amarillo{
+    background-color: yellow;
+}
+
+.nav-link.disabled {
+    color: #e213bc;
+    pointer-events: all;
+    cursor: help;
+}
+.tm-imagen-h{
+    height:400px ;
+}
+.se-centro{
+    text-align: center;
+}
+
+.form-signin{
+    margin-top: 150px;
+}
